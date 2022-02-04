@@ -4,7 +4,7 @@ import traceback
 
 
 class JavaPyProgramManagerHelper:
-
+ 
     def __init__(self):
         
         # Attempt to read params from sys.argv
