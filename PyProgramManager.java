@@ -27,7 +27,7 @@ import java.util.*;
  * <h6>Use .getLastOutputData() to recieve the last Output String(printed by py) by itself</h6>
  * */
 public class PyProgramManager {
-
+ 
     private String pathToPyProgram;
     private ProcessBuilder processBuilder;
     private Process pyProgramProcess;
